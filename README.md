@@ -11,7 +11,7 @@ This is a CRM systems that can dramatically improve customer experience, helping
 
 ## How To Contribute.
 
-1. Clone the repository: <code> https://github.com/Joshua-Mwisa/CRM_Project.git </code>
+1. Clone the repository: <pre> ``` https://github.com/Joshua-Mwisa/CRM_Project.git ``` </pre>
 2. Create a new branch.
 3. Make changes and test.
 4. Submit pull request with comprehensive description of changes.
